@@ -12,7 +12,7 @@ DURATION: 4 MONTHS
 
 MENTOR: NEELA SANTOSH
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="/Users/rishikapalohia/Desktop/personal-portfolio/src/assets/img">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/rish02-int/personal-portfolio/blob/main/src/assets/img/Screenshot%20.png">
 
 
 This project is a personal portfolio website built using React, React-Bootstrap, and Animate.css. The goal of the project is to create an interactive and visually appealing personal brand site where the developer can showcase their professional background, technical skills, and project accomplishments, while also offering a platform for potential clients or employers to get in touch. It acts as a digital resume and serves as a live demonstration of front-end development capabilities.
